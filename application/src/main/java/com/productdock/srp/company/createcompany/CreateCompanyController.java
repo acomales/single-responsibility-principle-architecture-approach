@@ -1,4 +1,4 @@
-package com.productdock.srp.createcompany;
+package com.productdock.srp.company.createcompany;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

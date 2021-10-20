@@ -1,4 +1,4 @@
-package com.productdock.srp.createcompany;
+package com.productdock.srp.company.createcompany;
 
 import com.productdock.srp.entity.Company;
 import com.productdock.srp.repository.CompanyRepository;
